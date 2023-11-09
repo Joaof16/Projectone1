@@ -1,0 +1,18 @@
+.cabeçalho{
+    background-color:brown;
+}
+     
+.principal{
+    background-color: olive;
+    color:goldenrod;
+}
+
+.rodape{
+    background-color:black;
+    color:snow;
+    text-align: center;
+}
+#imagem-carro{
+    width: 400px;
+    border: 2px blue double;
+}
