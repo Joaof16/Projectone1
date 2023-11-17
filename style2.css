@@ -1,6 +1,11 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-   <head>
-      <meta charset="UTF-8">
-      <title>Página 2</title> 
-      <link ret="sstylesheet" href="style2.css">
+#imagem-carro{
+   width: 220px;
+}
+
+.cabeçalho{
+   border: 3px;
+   border-style: dashed;
+   background-color: black;
+   color:red
+   margin: 50px;
+}
