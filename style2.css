@@ -6,9 +6,19 @@
    border: 3px;
    border-style: dashed;
    background-color: black;
-   color:red
+   color:red;
    margin: 50px;
 }
 #icone-png{
    width: 30px;
+}
+#link-carro{
+   font-size: 20px; 
+   color:chartreuse;
+   text-decoration: none;
+}
+#link-carro{
+   font-size: 20px; 
+   color:chartreuse;
+   text-decoration: double;
 }

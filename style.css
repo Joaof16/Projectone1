@@ -16,3 +16,9 @@
     width: 400px;
     border: 2px blue double;
 }
+
+#link-carro{
+   font-size: 20px; 
+   color:chartreuse;
+   text-decoration: double;
+}
